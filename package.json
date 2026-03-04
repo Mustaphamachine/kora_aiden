@@ -5,7 +5,7 @@
   "scripts": {
     "predev": "node --env-file=.env.local scripts/generate-collections.mjs",
     "dev": "next dev",
-    "prebuild": "node --env-file=.env.local scripts/generate-collections.mjs",
+    "prebuild": "node scripts/generate-collections.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
