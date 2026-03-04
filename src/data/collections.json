@@ -1,0 +1,1064 @@
+{
+  "collections": {
+    "bespoke": {
+      "title": "Bespoke Atelier",
+      "description": "Individually Crafted Heritage",
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625374/bespoke/custombridal_1_tb0zxb.jpg",
+          "alt": "custombridal_1_tb0zxb",
+          "title": "custombridal_1_tb0zxb"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625376/bespoke/custombridal_2_tlzj4r.jpg",
+          "alt": "custombridal_2_tlzj4r",
+          "title": "custombridal_2_tlzj4r"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625376/bespoke/custombridal_3_gsgbts.jpg",
+          "alt": "custombridal_3_gsgbts",
+          "title": "custombridal_3_gsgbts"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625377/bespoke/custombridal_4_z5jg4m.jpg",
+          "alt": "custombridal_4_z5jg4m",
+          "title": "custombridal_4_z5jg4m"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625381/bespoke/custombridal_5_aqqk6o.jpg",
+          "alt": "custombridal_5_aqqk6o",
+          "title": "custombridal_5_aqqk6o"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625382/bespoke/custombridal_6_iazyyf.jpg",
+          "alt": "custombridal_6_iazyyf",
+          "title": "custombridal_6_iazyyf"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625386/bespoke/image_18_la1wt5.jpg",
+          "alt": "image_18_la1wt5",
+          "title": "image_18_la1wt5"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625390/bespoke/image_26_uyg84y.jpg",
+          "alt": "image_26_uyg84y",
+          "title": "image_26_uyg84y"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625391/bespoke/image_36_ew7itr.jpg",
+          "alt": "image_36_ew7itr",
+          "title": "image_36_ew7itr"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625391/bespoke/image_40_u9inr5.jpg",
+          "alt": "image_40_u9inr5",
+          "title": "image_40_u9inr5"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625392/bespoke/image_42_dolpt7.jpg",
+          "alt": "image_42_dolpt7",
+          "title": "image_42_dolpt7"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625392/bespoke/image_43_ruyjro.jpg",
+          "alt": "image_43_ruyjro",
+          "title": "image_43_ruyjro"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625392/bespoke/image_44_xbkp7a.jpg",
+          "alt": "image_44_xbkp7a",
+          "title": "image_44_xbkp7a"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625392/bespoke/WhatsApp_Image_2026-03-03_at_20.45.10_xjsjoc.jpg",
+          "alt": "WhatsApp_Image_2026-03-03_at_20.45.10_xjsjoc",
+          "title": "WhatsApp_Image_2026-03-03_at_20.45.10_xjsjoc"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625392/bespoke/WhatsApp_Image_2026-03-03_at_20.45.120_iqoqhw.jpg",
+          "alt": "WhatsApp_Image_2026-03-03_at_20.45.120_iqoqhw",
+          "title": "WhatsApp_Image_2026-03-03_at_20.45.120_iqoqhw"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625393/bespoke/WhatsApp_Image_2026-03-03_at_20.45.140_aphh2c.jpg",
+          "alt": "WhatsApp_Image_2026-03-03_at_20.45.140_aphh2c",
+          "title": "WhatsApp_Image_2026-03-03_at_20.45.140_aphh2c"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625376/bespoke/custombridal_10_l8wzjd.mp4",
+          "alt": "custombridal_10_l8wzjd",
+          "title": "custombridal_10_l8wzjd"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625377/bespoke/custombridal_2_pasick.mp4",
+          "alt": "custombridal_2_pasick",
+          "title": "custombridal_2_pasick"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625381/bespoke/custombridal_4_aye75m.mp4",
+          "alt": "custombridal_4_aye75m",
+          "title": "custombridal_4_aye75m"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625381/bespoke/custombridal_5_fsfr0n.mp4",
+          "alt": "custombridal_5_fsfr0n",
+          "title": "custombridal_5_fsfr0n"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625382/bespoke/custombridal_6_whalns.mp4",
+          "alt": "custombridal_6_whalns",
+          "title": "custombridal_6_whalns"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625384/bespoke/custombridal_8_grvont.mp4",
+          "alt": "custombridal_8_grvont",
+          "title": "custombridal_8_grvont"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625387/bespoke/custombridal_9_qy0wo2.mp4",
+          "alt": "custombridal_9_qy0wo2",
+          "title": "custombridal_9_qy0wo2"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625402/bespoke/WhatsApp_Video_2025-12-29_at_14.50.49_mxkjdx.mp4",
+          "alt": "WhatsApp_Video_2025-12-29_at_14.50.49_mxkjdx",
+          "title": "WhatsApp_Video_2025-12-29_at_14.50.49_mxkjdx"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625405/bespoke/WhatsApp_Video_2025-12-29_at_15.41.43_fyllrj.mp4",
+          "alt": "WhatsApp_Video_2025-12-29_at_15.41.43_fyllrj",
+          "title": "WhatsApp_Video_2025-12-29_at_15.41.43_fyllrj"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625405/bespoke/WhatsApp_Video_2025-12-29_at_15.42.23_v89lum.mp4",
+          "alt": "WhatsApp_Video_2025-12-29_at_15.42.23_v89lum",
+          "title": "WhatsApp_Video_2025-12-29_at_15.42.23_v89lum"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625407/bespoke/WhatsApp_Video_2025-12-29_at_15.08.55_cc9nf5.mp4",
+          "alt": "WhatsApp_Video_2025-12-29_at_15.08.55_cc9nf5",
+          "title": "WhatsApp_Video_2025-12-29_at_15.08.55_cc9nf5"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625407/bespoke/WhatsApp_Video_2025-12-29_at_15.44.48_ei7k7a.mp4",
+          "alt": "WhatsApp_Video_2025-12-29_at_15.44.48_ei7k7a",
+          "title": "WhatsApp_Video_2025-12-29_at_15.44.48_ei7k7a"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625408/bespoke/WhatsApp_Video_2025-12-29_at_15.07.03_atn84k.mp4",
+          "alt": "WhatsApp_Video_2025-12-29_at_15.07.03_atn84k",
+          "title": "WhatsApp_Video_2025-12-29_at_15.07.03_atn84k"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625412/bespoke/WhatsApp_Video_2026-03-03_at_20.44.35_d8hi9x.mp4",
+          "alt": "WhatsApp_Video_2026-03-03_at_20.44.35_d8hi9x",
+          "title": "WhatsApp_Video_2026-03-03_at_20.44.35_d8hi9x"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625413/bespoke/WhatsApp_Video_2026-03-03_at_20.44.34_bkyg7f.mp4",
+          "alt": "WhatsApp_Video_2026-03-03_at_20.44.34_bkyg7f",
+          "title": "WhatsApp_Video_2026-03-03_at_20.44.34_bkyg7f"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625413/bespoke/WhatsApp_Video_2026-03-03_at_20.44.55_rzewlp.mp4",
+          "alt": "WhatsApp_Video_2026-03-03_at_20.44.55_rzewlp",
+          "title": "WhatsApp_Video_2026-03-03_at_20.44.55_rzewlp"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625417/bespoke/WhatsApp_Video_2026-03-03_at_20.45.10_qbr8oa.mp4",
+          "alt": "WhatsApp_Video_2026-03-03_at_20.45.10_qbr8oa",
+          "title": "WhatsApp_Video_2026-03-03_at_20.45.10_qbr8oa"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625420/bespoke/WhatsApp_Video_2026-03-03_at_20.44.50_q4cwvd.mp4",
+          "alt": "WhatsApp_Video_2026-03-03_at_20.44.50_q4cwvd",
+          "title": "WhatsApp_Video_2026-03-03_at_20.44.50_q4cwvd"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625421/bespoke/WhatsApp_Video_2025-12-29_at_15.08.15_o41a78.mp4",
+          "alt": "WhatsApp_Video_2025-12-29_at_15.08.15_o41a78",
+          "title": "WhatsApp_Video_2025-12-29_at_15.08.15_o41a78"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625425/bespoke/WhatsApp_Video_2025-12-29_at_15.40.34_u7bzlh.mp4",
+          "alt": "WhatsApp_Video_2025-12-29_at_15.40.34_u7bzlh",
+          "title": "WhatsApp_Video_2025-12-29_at_15.40.34_u7bzlh"
+        }
+      ]
+    },
+    "readyToWear": {
+      "title": "Ready-to-Wear Series",
+      "description": "Contemporary Excellence",
+      "media": [
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625280/ready_to_wear/image_2_r6javq.jpg",
+          "alt": "image_2_r6javq",
+          "title": "image_2_r6javq"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625281/ready_to_wear/image_21_xnrq2v.jpg",
+          "alt": "image_21_xnrq2v",
+          "title": "image_21_xnrq2v"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625281/ready_to_wear/image_23_epda8r.jpg",
+          "alt": "image_23_epda8r",
+          "title": "image_23_epda8r"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625281/ready_to_wear/image_5_plzm5y.jpg",
+          "alt": "image_5_plzm5y",
+          "title": "image_5_plzm5y"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625282/ready_to_wear/image_15_vtzequ.jpg",
+          "alt": "image_15_vtzequ",
+          "title": "image_15_vtzequ"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625282/ready_to_wear/image_22_cptmxv.jpg",
+          "alt": "image_22_cptmxv",
+          "title": "image_22_cptmxv"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625282/ready_to_wear/image_6_ra9rxv.jpg",
+          "alt": "image_6_ra9rxv",
+          "title": "image_6_ra9rxv"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625282/ready_to_wear/image_7_kcyi3m.jpg",
+          "alt": "image_7_kcyi3m",
+          "title": "image_7_kcyi3m"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625283/ready_to_wear/image_16_g8p4l8.jpg",
+          "alt": "image_16_g8p4l8",
+          "title": "image_16_g8p4l8"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625283/ready_to_wear/image_17_ubxs15.jpg",
+          "alt": "image_17_ubxs15",
+          "title": "image_17_ubxs15"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625283/ready_to_wear/image_20_lsq3ml.jpg",
+          "alt": "image_20_lsq3ml",
+          "title": "image_20_lsq3ml"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625283/ready_to_wear/image_8_myfnef.jpg",
+          "alt": "image_8_myfnef",
+          "title": "image_8_myfnef"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625283/ready_to_wear/image_9_ytpaow.jpg",
+          "alt": "image_9_ytpaow",
+          "title": "image_9_ytpaow"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625284/ready_to_wear/image_14_z4iolz.jpg",
+          "alt": "image_14_z4iolz",
+          "title": "image_14_z4iolz"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625284/ready_to_wear/image_24_ktwc5c.jpg",
+          "alt": "image_24_ktwc5c",
+          "title": "image_24_ktwc5c"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625285/ready_to_wear/image_27_ie5kfp.jpg",
+          "alt": "image_27_ie5kfp",
+          "title": "image_27_ie5kfp"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625286/ready_to_wear/image_25_oig8j4.jpg",
+          "alt": "image_25_oig8j4",
+          "title": "image_25_oig8j4"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625286/ready_to_wear/image_28_nodiw3.jpg",
+          "alt": "image_28_nodiw3",
+          "title": "image_28_nodiw3"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625287/ready_to_wear/image_12_qf5kkc.jpg",
+          "alt": "image_12_qf5kkc",
+          "title": "image_12_qf5kkc"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625289/ready_to_wear/image_29_z9s5fo.jpg",
+          "alt": "image_29_z9s5fo",
+          "title": "image_29_z9s5fo"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625290/ready_to_wear/image_10_jwheo0.jpg",
+          "alt": "image_10_jwheo0",
+          "title": "image_10_jwheo0"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625291/ready_to_wear/image_11_zs8tor.jpg",
+          "alt": "image_11_zs8tor",
+          "title": "image_11_zs8tor"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625291/ready_to_wear/image_13_arz1ve.jpg",
+          "alt": "image_13_arz1ve",
+          "title": "image_13_arz1ve"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625292/ready_to_wear/image_19_u6xewc.jpg",
+          "alt": "image_19_u6xewc",
+          "title": "image_19_u6xewc"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625292/ready_to_wear/image_3_xr7oev.jpg",
+          "alt": "image_3_xr7oev",
+          "title": "image_3_xr7oev"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625293/ready_to_wear/image_30_wis4dd.jpg",
+          "alt": "image_30_wis4dd",
+          "title": "image_30_wis4dd"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625295/ready_to_wear/image_31_qafold.jpg",
+          "alt": "image_31_qafold",
+          "title": "image_31_qafold"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625295/ready_to_wear/image_32_d0xcjb.jpg",
+          "alt": "image_32_d0xcjb",
+          "title": "image_32_d0xcjb"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625295/ready_to_wear/image_34_hpheqm.jpg",
+          "alt": "image_34_hpheqm",
+          "title": "image_34_hpheqm"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625296/ready_to_wear/image_33_xnbygv.jpg",
+          "alt": "image_33_xnbygv",
+          "title": "image_33_xnbygv"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625296/ready_to_wear/image_35_wvbeqx.jpg",
+          "alt": "image_35_wvbeqx",
+          "title": "image_35_wvbeqx"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625297/ready_to_wear/image_38_dqzvph.jpg",
+          "alt": "image_38_dqzvph",
+          "title": "image_38_dqzvph"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625297/ready_to_wear/image_39_yasy7f.jpg",
+          "alt": "image_39_yasy7f",
+          "title": "image_39_yasy7f"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625298/ready_to_wear/image_37_xmx0sx.jpg",
+          "alt": "image_37_xmx0sx",
+          "title": "image_37_xmx0sx"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625298/ready_to_wear/image_4_pupg1a.jpg",
+          "alt": "image_4_pupg1a",
+          "title": "image_4_pupg1a"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625298/ready_to_wear/image_41_wpmpku.jpg",
+          "alt": "image_41_wpmpku",
+          "title": "image_41_wpmpku"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625298/ready_to_wear/image_45_fftlah.jpg",
+          "alt": "image_45_fftlah",
+          "title": "image_45_fftlah"
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625298/ready_to_wear/image_46_ji1wnp.jpg",
+          "alt": "image_46_ji1wnp",
+          "title": "image_46_ji1wnp"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625286/ready_to_wear/WhatsApp_Video_2025-12-29_at_14.57.50_meioxn.mp4",
+          "alt": "WhatsApp_Video_2025-12-29_at_14.57.50_meioxn",
+          "title": "WhatsApp_Video_2025-12-29_at_14.57.50_meioxn"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625296/ready_to_wear/WhatsApp_Video_2025-12-29_at_14.59.50_iba6ns.mp4",
+          "alt": "WhatsApp_Video_2025-12-29_at_14.59.50_iba6ns",
+          "title": "WhatsApp_Video_2025-12-29_at_14.59.50_iba6ns"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625298/ready_to_wear/image_1_iumyzg.mp4",
+          "alt": "image_1_iumyzg",
+          "title": "image_1_iumyzg"
+        }
+      ]
+    },
+    "customBridal": {
+      "title": "Custom Made & Bridals",
+      "description": "Bespoke Bridal Artistry",
+      "media": [
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625345/custom_made_bridal/custombridal_3_oconep.mp4",
+          "alt": "custombridal_3_oconep",
+          "title": "custombridal_3_oconep"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625345/custom_made_bridal/custombridal_7_mmulyr.mp4",
+          "alt": "custombridal_7_mmulyr",
+          "title": "custombridal_7_mmulyr"
+        },
+        {
+          "type": "video",
+          "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625348/custom_made_bridal/custombridal_1_p14fb8.mp4",
+          "alt": "custombridal_1_p14fb8",
+          "title": "custombridal_1_p14fb8"
+        }
+      ]
+    }
+  },
+  "gallery": [
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625374/bespoke/custombridal_1_tb0zxb.jpg",
+      "alt": "custombridal_1_tb0zxb",
+      "title": "custombridal_1_tb0zxb",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625376/bespoke/custombridal_2_tlzj4r.jpg",
+      "alt": "custombridal_2_tlzj4r",
+      "title": "custombridal_2_tlzj4r",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625376/bespoke/custombridal_3_gsgbts.jpg",
+      "alt": "custombridal_3_gsgbts",
+      "title": "custombridal_3_gsgbts",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625377/bespoke/custombridal_4_z5jg4m.jpg",
+      "alt": "custombridal_4_z5jg4m",
+      "title": "custombridal_4_z5jg4m",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625381/bespoke/custombridal_5_aqqk6o.jpg",
+      "alt": "custombridal_5_aqqk6o",
+      "title": "custombridal_5_aqqk6o",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625382/bespoke/custombridal_6_iazyyf.jpg",
+      "alt": "custombridal_6_iazyyf",
+      "title": "custombridal_6_iazyyf",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625386/bespoke/image_18_la1wt5.jpg",
+      "alt": "image_18_la1wt5",
+      "title": "image_18_la1wt5",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625390/bespoke/image_26_uyg84y.jpg",
+      "alt": "image_26_uyg84y",
+      "title": "image_26_uyg84y",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625391/bespoke/image_36_ew7itr.jpg",
+      "alt": "image_36_ew7itr",
+      "title": "image_36_ew7itr",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625391/bespoke/image_40_u9inr5.jpg",
+      "alt": "image_40_u9inr5",
+      "title": "image_40_u9inr5",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625392/bespoke/image_42_dolpt7.jpg",
+      "alt": "image_42_dolpt7",
+      "title": "image_42_dolpt7",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625392/bespoke/image_43_ruyjro.jpg",
+      "alt": "image_43_ruyjro",
+      "title": "image_43_ruyjro",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625392/bespoke/image_44_xbkp7a.jpg",
+      "alt": "image_44_xbkp7a",
+      "title": "image_44_xbkp7a",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625392/bespoke/WhatsApp_Image_2026-03-03_at_20.45.10_xjsjoc.jpg",
+      "alt": "WhatsApp_Image_2026-03-03_at_20.45.10_xjsjoc",
+      "title": "WhatsApp_Image_2026-03-03_at_20.45.10_xjsjoc",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625392/bespoke/WhatsApp_Image_2026-03-03_at_20.45.120_iqoqhw.jpg",
+      "alt": "WhatsApp_Image_2026-03-03_at_20.45.120_iqoqhw",
+      "title": "WhatsApp_Image_2026-03-03_at_20.45.120_iqoqhw",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625393/bespoke/WhatsApp_Image_2026-03-03_at_20.45.140_aphh2c.jpg",
+      "alt": "WhatsApp_Image_2026-03-03_at_20.45.140_aphh2c",
+      "title": "WhatsApp_Image_2026-03-03_at_20.45.140_aphh2c",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625376/bespoke/custombridal_10_l8wzjd.mp4",
+      "alt": "custombridal_10_l8wzjd",
+      "title": "custombridal_10_l8wzjd",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625377/bespoke/custombridal_2_pasick.mp4",
+      "alt": "custombridal_2_pasick",
+      "title": "custombridal_2_pasick",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625381/bespoke/custombridal_4_aye75m.mp4",
+      "alt": "custombridal_4_aye75m",
+      "title": "custombridal_4_aye75m",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625381/bespoke/custombridal_5_fsfr0n.mp4",
+      "alt": "custombridal_5_fsfr0n",
+      "title": "custombridal_5_fsfr0n",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625382/bespoke/custombridal_6_whalns.mp4",
+      "alt": "custombridal_6_whalns",
+      "title": "custombridal_6_whalns",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625384/bespoke/custombridal_8_grvont.mp4",
+      "alt": "custombridal_8_grvont",
+      "title": "custombridal_8_grvont",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625387/bespoke/custombridal_9_qy0wo2.mp4",
+      "alt": "custombridal_9_qy0wo2",
+      "title": "custombridal_9_qy0wo2",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625402/bespoke/WhatsApp_Video_2025-12-29_at_14.50.49_mxkjdx.mp4",
+      "alt": "WhatsApp_Video_2025-12-29_at_14.50.49_mxkjdx",
+      "title": "WhatsApp_Video_2025-12-29_at_14.50.49_mxkjdx",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625405/bespoke/WhatsApp_Video_2025-12-29_at_15.41.43_fyllrj.mp4",
+      "alt": "WhatsApp_Video_2025-12-29_at_15.41.43_fyllrj",
+      "title": "WhatsApp_Video_2025-12-29_at_15.41.43_fyllrj",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625405/bespoke/WhatsApp_Video_2025-12-29_at_15.42.23_v89lum.mp4",
+      "alt": "WhatsApp_Video_2025-12-29_at_15.42.23_v89lum",
+      "title": "WhatsApp_Video_2025-12-29_at_15.42.23_v89lum",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625407/bespoke/WhatsApp_Video_2025-12-29_at_15.08.55_cc9nf5.mp4",
+      "alt": "WhatsApp_Video_2025-12-29_at_15.08.55_cc9nf5",
+      "title": "WhatsApp_Video_2025-12-29_at_15.08.55_cc9nf5",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625407/bespoke/WhatsApp_Video_2025-12-29_at_15.44.48_ei7k7a.mp4",
+      "alt": "WhatsApp_Video_2025-12-29_at_15.44.48_ei7k7a",
+      "title": "WhatsApp_Video_2025-12-29_at_15.44.48_ei7k7a",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625408/bespoke/WhatsApp_Video_2025-12-29_at_15.07.03_atn84k.mp4",
+      "alt": "WhatsApp_Video_2025-12-29_at_15.07.03_atn84k",
+      "title": "WhatsApp_Video_2025-12-29_at_15.07.03_atn84k",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625412/bespoke/WhatsApp_Video_2026-03-03_at_20.44.35_d8hi9x.mp4",
+      "alt": "WhatsApp_Video_2026-03-03_at_20.44.35_d8hi9x",
+      "title": "WhatsApp_Video_2026-03-03_at_20.44.35_d8hi9x",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625413/bespoke/WhatsApp_Video_2026-03-03_at_20.44.34_bkyg7f.mp4",
+      "alt": "WhatsApp_Video_2026-03-03_at_20.44.34_bkyg7f",
+      "title": "WhatsApp_Video_2026-03-03_at_20.44.34_bkyg7f",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625413/bespoke/WhatsApp_Video_2026-03-03_at_20.44.55_rzewlp.mp4",
+      "alt": "WhatsApp_Video_2026-03-03_at_20.44.55_rzewlp",
+      "title": "WhatsApp_Video_2026-03-03_at_20.44.55_rzewlp",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625417/bespoke/WhatsApp_Video_2026-03-03_at_20.45.10_qbr8oa.mp4",
+      "alt": "WhatsApp_Video_2026-03-03_at_20.45.10_qbr8oa",
+      "title": "WhatsApp_Video_2026-03-03_at_20.45.10_qbr8oa",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625420/bespoke/WhatsApp_Video_2026-03-03_at_20.44.50_q4cwvd.mp4",
+      "alt": "WhatsApp_Video_2026-03-03_at_20.44.50_q4cwvd",
+      "title": "WhatsApp_Video_2026-03-03_at_20.44.50_q4cwvd",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625421/bespoke/WhatsApp_Video_2025-12-29_at_15.08.15_o41a78.mp4",
+      "alt": "WhatsApp_Video_2025-12-29_at_15.08.15_o41a78",
+      "title": "WhatsApp_Video_2025-12-29_at_15.08.15_o41a78",
+      "collection": "bespoke"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625425/bespoke/WhatsApp_Video_2025-12-29_at_15.40.34_u7bzlh.mp4",
+      "alt": "WhatsApp_Video_2025-12-29_at_15.40.34_u7bzlh",
+      "title": "WhatsApp_Video_2025-12-29_at_15.40.34_u7bzlh",
+      "collection": "bespoke"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625280/ready_to_wear/image_2_r6javq.jpg",
+      "alt": "image_2_r6javq",
+      "title": "image_2_r6javq",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625281/ready_to_wear/image_21_xnrq2v.jpg",
+      "alt": "image_21_xnrq2v",
+      "title": "image_21_xnrq2v",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625281/ready_to_wear/image_23_epda8r.jpg",
+      "alt": "image_23_epda8r",
+      "title": "image_23_epda8r",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625281/ready_to_wear/image_5_plzm5y.jpg",
+      "alt": "image_5_plzm5y",
+      "title": "image_5_plzm5y",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625282/ready_to_wear/image_15_vtzequ.jpg",
+      "alt": "image_15_vtzequ",
+      "title": "image_15_vtzequ",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625282/ready_to_wear/image_22_cptmxv.jpg",
+      "alt": "image_22_cptmxv",
+      "title": "image_22_cptmxv",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625282/ready_to_wear/image_6_ra9rxv.jpg",
+      "alt": "image_6_ra9rxv",
+      "title": "image_6_ra9rxv",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625282/ready_to_wear/image_7_kcyi3m.jpg",
+      "alt": "image_7_kcyi3m",
+      "title": "image_7_kcyi3m",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625283/ready_to_wear/image_16_g8p4l8.jpg",
+      "alt": "image_16_g8p4l8",
+      "title": "image_16_g8p4l8",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625283/ready_to_wear/image_17_ubxs15.jpg",
+      "alt": "image_17_ubxs15",
+      "title": "image_17_ubxs15",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625283/ready_to_wear/image_20_lsq3ml.jpg",
+      "alt": "image_20_lsq3ml",
+      "title": "image_20_lsq3ml",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625283/ready_to_wear/image_8_myfnef.jpg",
+      "alt": "image_8_myfnef",
+      "title": "image_8_myfnef",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625283/ready_to_wear/image_9_ytpaow.jpg",
+      "alt": "image_9_ytpaow",
+      "title": "image_9_ytpaow",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625284/ready_to_wear/image_14_z4iolz.jpg",
+      "alt": "image_14_z4iolz",
+      "title": "image_14_z4iolz",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625284/ready_to_wear/image_24_ktwc5c.jpg",
+      "alt": "image_24_ktwc5c",
+      "title": "image_24_ktwc5c",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625285/ready_to_wear/image_27_ie5kfp.jpg",
+      "alt": "image_27_ie5kfp",
+      "title": "image_27_ie5kfp",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625286/ready_to_wear/image_25_oig8j4.jpg",
+      "alt": "image_25_oig8j4",
+      "title": "image_25_oig8j4",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625286/ready_to_wear/image_28_nodiw3.jpg",
+      "alt": "image_28_nodiw3",
+      "title": "image_28_nodiw3",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625287/ready_to_wear/image_12_qf5kkc.jpg",
+      "alt": "image_12_qf5kkc",
+      "title": "image_12_qf5kkc",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625289/ready_to_wear/image_29_z9s5fo.jpg",
+      "alt": "image_29_z9s5fo",
+      "title": "image_29_z9s5fo",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625290/ready_to_wear/image_10_jwheo0.jpg",
+      "alt": "image_10_jwheo0",
+      "title": "image_10_jwheo0",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625291/ready_to_wear/image_11_zs8tor.jpg",
+      "alt": "image_11_zs8tor",
+      "title": "image_11_zs8tor",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625291/ready_to_wear/image_13_arz1ve.jpg",
+      "alt": "image_13_arz1ve",
+      "title": "image_13_arz1ve",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625292/ready_to_wear/image_19_u6xewc.jpg",
+      "alt": "image_19_u6xewc",
+      "title": "image_19_u6xewc",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625292/ready_to_wear/image_3_xr7oev.jpg",
+      "alt": "image_3_xr7oev",
+      "title": "image_3_xr7oev",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625293/ready_to_wear/image_30_wis4dd.jpg",
+      "alt": "image_30_wis4dd",
+      "title": "image_30_wis4dd",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625295/ready_to_wear/image_31_qafold.jpg",
+      "alt": "image_31_qafold",
+      "title": "image_31_qafold",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625295/ready_to_wear/image_32_d0xcjb.jpg",
+      "alt": "image_32_d0xcjb",
+      "title": "image_32_d0xcjb",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625295/ready_to_wear/image_34_hpheqm.jpg",
+      "alt": "image_34_hpheqm",
+      "title": "image_34_hpheqm",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625296/ready_to_wear/image_33_xnbygv.jpg",
+      "alt": "image_33_xnbygv",
+      "title": "image_33_xnbygv",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625296/ready_to_wear/image_35_wvbeqx.jpg",
+      "alt": "image_35_wvbeqx",
+      "title": "image_35_wvbeqx",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625297/ready_to_wear/image_38_dqzvph.jpg",
+      "alt": "image_38_dqzvph",
+      "title": "image_38_dqzvph",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625297/ready_to_wear/image_39_yasy7f.jpg",
+      "alt": "image_39_yasy7f",
+      "title": "image_39_yasy7f",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625298/ready_to_wear/image_37_xmx0sx.jpg",
+      "alt": "image_37_xmx0sx",
+      "title": "image_37_xmx0sx",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625298/ready_to_wear/image_4_pupg1a.jpg",
+      "alt": "image_4_pupg1a",
+      "title": "image_4_pupg1a",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625298/ready_to_wear/image_41_wpmpku.jpg",
+      "alt": "image_41_wpmpku",
+      "title": "image_41_wpmpku",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625298/ready_to_wear/image_45_fftlah.jpg",
+      "alt": "image_45_fftlah",
+      "title": "image_45_fftlah",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "image",
+      "src": "https://res.cloudinary.com/dlq5bzbse/image/upload/v1772625298/ready_to_wear/image_46_ji1wnp.jpg",
+      "alt": "image_46_ji1wnp",
+      "title": "image_46_ji1wnp",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625286/ready_to_wear/WhatsApp_Video_2025-12-29_at_14.57.50_meioxn.mp4",
+      "alt": "WhatsApp_Video_2025-12-29_at_14.57.50_meioxn",
+      "title": "WhatsApp_Video_2025-12-29_at_14.57.50_meioxn",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625296/ready_to_wear/WhatsApp_Video_2025-12-29_at_14.59.50_iba6ns.mp4",
+      "alt": "WhatsApp_Video_2025-12-29_at_14.59.50_iba6ns",
+      "title": "WhatsApp_Video_2025-12-29_at_14.59.50_iba6ns",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625298/ready_to_wear/image_1_iumyzg.mp4",
+      "alt": "image_1_iumyzg",
+      "title": "image_1_iumyzg",
+      "collection": "readyToWear"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625345/custom_made_bridal/custombridal_3_oconep.mp4",
+      "alt": "custombridal_3_oconep",
+      "title": "custombridal_3_oconep",
+      "collection": "customBridal"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625345/custom_made_bridal/custombridal_7_mmulyr.mp4",
+      "alt": "custombridal_7_mmulyr",
+      "title": "custombridal_7_mmulyr",
+      "collection": "customBridal"
+    },
+    {
+      "type": "video",
+      "src": "https://res.cloudinary.com/dlq5bzbse/video/upload/v1772625348/custom_made_bridal/custombridal_1_p14fb8.mp4",
+      "alt": "custombridal_1_p14fb8",
+      "title": "custombridal_1_p14fb8",
+      "collection": "customBridal"
+    }
+  ]
+}
